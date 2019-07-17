@@ -1,5 +1,7 @@
 # 1351046-CS427-Midterm
 
+Full project download link at the end of this document.
+
 # Le Quoc Trung - 1351046 - Midterm Project of CS427 - Game Development
 
 This is the readme.md file for my midterm project of CS427 - Game Development
@@ -37,4 +39,7 @@ https://www.youtube.com/watch?v=NWG8vO02oj4
 
 https://www.youtube.com/watch?v=zymbjqlPfnw
 
+## Full project link
 
+Due to the maximum file size restriction of github, I cannot upload the project directly to github, so here is the google drive link to download the project:
+https://drive.google.com/open?id=149hpnrWNQykP6r3v3mwyRp1hkH8V7Y9P
